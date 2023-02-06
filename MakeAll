@@ -1,0 +1,7 @@
+#!/bin/bash
+cd src
+make
+cd ..
+cp Acess64.bin /mnt/AcessFDD/Acess64.bin
+umount /mnt/AcessFDD
+mount /mnt/AcessFDD

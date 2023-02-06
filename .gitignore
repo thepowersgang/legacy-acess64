@@ -1,0 +1,8 @@
+.*
+
+*.bin
+*.dsm
+*.o
+*.ao
+map.txt
+*.map.txt
